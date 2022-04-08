@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Bug Hunting | Pentest
 - 🌱 Estudando sobre Segurança Ofensiva
-- 😄 Pronouns: ele/dele
+- 📩 Contato: luisfelipe146@hotmail.com
 
 <div align="center">
   <a href="https://github.com/luisfelipe146">
