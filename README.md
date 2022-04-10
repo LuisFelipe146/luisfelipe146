@@ -1,7 +1,6 @@
 ### Olá! Meu nome é Luís Felipe. 👋
 
-- 🔭 Hoje trabalho como Bug Hunting | Pentest
-- 🌱 Estudando sobre Segurança Ofensiva
+- 🌱 Estudando sobre Segurança Ofensiva | Bug Hunting | Pentest
 - 📩 Contato: luisfelipe146@hotmail.com
 
 <div align="center">
