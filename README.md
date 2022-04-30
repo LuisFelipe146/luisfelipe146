@@ -2,6 +2,7 @@
 
 - 🌱 Estudando sobre Segurança Ofensiva | Bug Hunting | Pentest
 - 📩 Contato: luisfelipe146@hotmail.com
+- 📝 Write-Ups: https://luis-felipe.gitbook.io/ctf-write-ups/
 
 <div align="center">
   <a href="https://github.com/luisfelipe146">
