@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Luís Felipe. 👋
 
-- 🌱 Estudando sobre Segurança Ofensiva | Bug Hunting | Pentest
+- 🌱 Estudando sobre Segurança Ofensiva | Pentest
 - 📩 Contato: luisfelipe146@hotmail.com
 - 📝 Write-Ups: https://luis-felipe.gitbook.io/ctf-write-ups/
 
