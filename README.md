@@ -4,12 +4,6 @@
 - 📩 Contato: luisfelipe146@hotmail.com
 - 📝 Write-Ups: https://luis-felipe.gitbook.io/ctf-write-ups/
 
-<div align="center">
-  <a href="https://github.com/luisfelipe146">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe146&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe146&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <div style="display: inline"><br>
   <img align="center" alt="luis-shell" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="luis-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
