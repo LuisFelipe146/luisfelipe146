@@ -2,7 +2,6 @@
 
 - 🌱 Estudando sobre Segurança Ofensiva | Pentest
 - 📩 Contato: luisfelipe146@hotmail.com
-- 📝 Write-Ups: https://luis-felipe.gitbook.io/ctf-write-ups/
 
 <div style="display: inline"><br>
   <img align="center" alt="luis-shell" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
